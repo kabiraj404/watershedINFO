@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1636454715476.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2833302341",
+    "id" : "B489BE86",
+    "lastKnownWriteTime" : 1636454234,
+    "last_content_update" : 1636454234,
+    "path" : "D:/GithubT/watershedINFO/man/multiply.Rd",
+    "project_path" : "man/multiply.Rd",
+    "properties" : {
+    },
+    "read_only" : true,
+    "read_only_alternatives" : [
+        "R/multiply.R"
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
